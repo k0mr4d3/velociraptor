@@ -1,6 +1,6 @@
 import "./navigator.css";
 import _ from 'lodash';
-import logo from  "./velo.svg";
+import logo from  "./ncsc.png";
 import UserConfig from '../core/user.jsx';
 import api from '../core/api-service.jsx';
 import React, { Component } from 'react';
